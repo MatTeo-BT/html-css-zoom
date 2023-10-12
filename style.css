@@ -7,7 +7,7 @@ border: 1px solid blue;
 }
 
 header{
-    height: 80px;
+    height: 100px;
     background-color: #000000;
 }
 main{
@@ -22,7 +22,6 @@ main{
 }
 div{
     margin: .5rem .1rem;
-    
 }
 .flex-wrap{
     display: flex;
@@ -32,6 +31,14 @@ div{
     max-width: 1700px;
 }
 .big-container{
-    margin: 0 auto;
+    margin: 150px;
+}
+.nome-utente{
+    color: wheat;
+    background-color: #616F79;
+    padding: .2rem .8rem;
+    position: absolute;
+    bottom: 2rem;
+    left: 0;
 }
 
