@@ -14,7 +14,7 @@ main{
     height: 100vh;
     background-color: #000000;
 }
-.container-pinco-pallo{
+.container-flex{
     /* height: 300px;
     width: 400px; */
     display: flex;
@@ -27,5 +27,11 @@ div{
 .flex-wrap{
     display: flex;
     flex-wrap: wrap;
+}
+.max-width{
+    max-width: 1700px;
+}
+.big-container{
+    margin: 0 auto;
 }
 
