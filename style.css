@@ -24,7 +24,7 @@ main{
     height: calc(100vh - 110px);
     overflow-y: auto;
 }
-
+ 
 main section.gallery{
     height: 100%;
 }
